@@ -10,3 +10,6 @@ tags:
 > ### react class 组件  
 1. class组件 具有生命周期钩子函数，可以在钩子函数改变state，例如componentDidMount()
 2. class组件 新手更容易掌握，render() 函数返回jsx, 组件嵌套可以通过prop，从上往下传递，如瀑布流，每层都可以添加prop
+
+>### react hooks
+1. hooks 
